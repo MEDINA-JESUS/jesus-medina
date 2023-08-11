@@ -251,3 +251,11 @@ footer{
     margin-bottom: 50px;
     padding: 5px;
 }
+/* Sección Pagos */
+#Pagos .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
